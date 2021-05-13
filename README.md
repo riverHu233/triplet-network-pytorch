@@ -1,3 +1,5 @@
+### 使用说明：改代码适合于已经产生了triplets的数据，直接使用写好的dataloader分别加载anchor, positive, negative数据
+
 # A PyTorch Implementation for Triplet Networks(Offline triplets loading)
 
 This repository contains a [PyTorch](http://pytorch.org/) implementation for triplet networks.
